@@ -1,4 +1,4 @@
-# Trunk Based Development - Feature Flags Workshop - PHPers Summit 2023
+# Trunk Based Development - Feature Flags Workshop
 
 W ramach warsztatu będziemy pracować z prostą aplikacją.
 Do działania będzie potrzebny systemu z obsługą:
